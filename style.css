@@ -1,0 +1,19 @@
+
+
+body{
+	text-align: center;
+	font-family: Arial black;
+}
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	padding-left: 50px;
+	margin-left: 25%;
+}
+#img-div{
+	margin-left: auto; 
+}
+#img-caption{
+text-align: left;
+}
